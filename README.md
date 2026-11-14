@@ -15,7 +15,7 @@ I'm still learning, and this GitHub is where I plan to document my very own jour
 - Practising defensive security through TryHackMe.
 - Building my understanding of cybersecurity concepts through hands-on labs.
 
-- ---
+ ---
 
 ## 🛠️ Tech Stack
 
@@ -59,5 +59,5 @@ I've been trying to move beyond just learning concepts and actually get some han
 
 **Cisco – Introduction to Cybersecurity**
 
-Successfully completed the Cisco Introduction to Cybersecurity course and earned the official completion credential.
+Completed the Cisco Introduction to Cybersecurity course and earned its official completion credential.
 
