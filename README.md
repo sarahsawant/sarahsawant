@@ -36,3 +36,27 @@ I'm still learning, and this GitHub is where I plan to document my very own jour
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 🔍 My Cybersecurity Journey
+
+I've been trying to move beyond just learning concepts and actually get some hands-on experience with cybersecurity tools and platforms.
+
+### 📡 Wireshark Labs
+Working with Wireshark to understand network traffic and explore how data moves across networks.
+
+- Lab 01 – Packet Analysis
+- Lab 02 – DNS Analysis
+
+### 🛡️ TryHackMe
+Using practical rooms to build my understanding of cybersecurity.
+
+- Intro to Defensive Security
+- Open Door
+
+### 🎓 Certification
+
+**Cisco – Introduction to Cybersecurity**
+
+Successfully completed the Cisco Introduction to Cybersecurity course and earned the official completion credential.
