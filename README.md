@@ -44,15 +44,10 @@ I'm still learning, and this GitHub is where I plan to document my very own jour
 
 I've been trying to move beyond just learning concepts and actually get some hands-on experience with cybersecurity tools and platforms.
 
-### 📡 Wireshark Labs
-Working with Wireshark to understand network traffic and explore how data moves across networks.
 
 ### 🔎 Wireshark
 - **[Lab 01 — Network Traffic Analysis](https://github.com/sarahsawant/cybersecurity-beginner-labs/tree/main/Wireshark/Lab-01-Network-Traffic-Analysis)** — Capturing and exploring network traffic.
 - **[Lab 02 — DNS Analysis](https://github.com/sarahsawant/cybersecurity-beginner-labs/tree/main/Wireshark/Lab-02-DNS-Analysis)** — Understanding how DNS queries and responses work.
-
-### 🛡️ TryHackMe
-Using practical rooms to build my understanding of cybersecurity.
 
 ### 🛡️ TryHackMe
 - **[Intro to Defensive Security](https://tryhackme.com/room/defensivesecurityintro)** — Completed.
@@ -65,3 +60,4 @@ Using practical rooms to build my understanding of cybersecurity.
 **Cisco – Introduction to Cybersecurity**
 
 Successfully completed the Cisco Introduction to Cybersecurity course and earned the official completion credential.
+
