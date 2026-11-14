@@ -13,3 +13,26 @@ I'm still learning, and this GitHub is where I plan to document my very own jour
 - Exploring packet analysis using Wireshark.
 - Practising defensive security through TryHackMe.
 - Building my understanding of cybersecurity concepts through hands-on labs.
+
+- ---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+*Languages I've had some hands-on exposure to through college practicals.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### 🔐 Cybersecurity & Networking
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+
+### 🔧 Tools & Platforms
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
