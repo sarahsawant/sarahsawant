@@ -55,8 +55,10 @@ Working with Wireshark to understand network traffic and explore how data moves 
 Using practical rooms to build my understanding of cybersecurity.
 
 ### 🛡️ TryHackMe
-- **Intro to Defensive Security** — Completed.
+### 🛡️ TryHackMe
+- **[Intro to Offensive Security](https://tryhackme.com/room/offensivesecurityintro)** — Completed.
 - **Open Door** — Completed.
+
 ### 🎓 Certification
 
 **Cisco – Introduction to Cybersecurity**
