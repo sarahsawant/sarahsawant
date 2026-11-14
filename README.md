@@ -7,7 +7,7 @@ Lately, I've been spending time understanding how networks work, experimenting w
 
 I'm still learning, and this GitHub is where I plan to document my very own journey — the things I build, the labs I complete, and the concepts I figure out along the way.
 
----
+![Pink Divider](ClipartKey_838560.png)
 
 ## 🌱 What I'm currently exploring
 - Learning networking fundamentals and how devices communicate.
@@ -15,7 +15,7 @@ I'm still learning, and this GitHub is where I plan to document my very own jour
 - Practising defensive security through TryHackMe.
 - Building my understanding of cybersecurity concepts through hands-on labs.
 
- ---
+ ![Pink Divider](ClipartKey_838560.png)
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +38,7 @@ I'm still learning, and this GitHub is where I plan to document my very own jour
 ![Git](https://img.shields.io/badge/Git-FCEEF3?style=for-the-badge&logo=git&logoColor=9B647C)
 ![GitHub](https://img.shields.io/badge/GitHub-FCEEF3?style=for-the-badge&logo=github&logoColor=9B647C)
 
----
+![Pink Divider](ClipartKey_838560.png)
 
 ## 🔍 My Cybersecurity Journey
 
