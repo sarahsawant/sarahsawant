@@ -47,8 +47,9 @@ I've been trying to move beyond just learning concepts and actually get some han
 ### 📡 Wireshark Labs
 Working with Wireshark to understand network traffic and explore how data moves across networks.
 
-- Lab 01 – Packet Analysis
-- Lab 02 – DNS Analysis
+### 🔎 Wireshark
+- **Lab 01 — Packet Analysis:** Capturing and exploring network traffic.
+- **Lab 02 — DNS Analysis:** Understanding how DNS queries and responses work.
 
 ### 🛡️ TryHackMe
 Using practical rooms to build my understanding of cybersecurity.
