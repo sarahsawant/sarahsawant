@@ -48,8 +48,8 @@ I've been trying to move beyond just learning concepts and actually get some han
 Working with Wireshark to understand network traffic and explore how data moves across networks.
 
 ### 🔎 Wireshark
-- **Lab 01 — Packet Analysis:** Capturing and exploring network traffic.
-- **Lab 02 — DNS Analysis:** Understanding how DNS queries and responses work.
+- **[Lab 01 — Network Traffic Analysis](https://github.com/sarahsawant/cybersecurity-beginner-labs/tree/main/Wireshark/Lab-01-Network-Traffic-Analysis)** — Capturing and exploring network traffic.
+- **[Lab 02 — DNS Analysis](https://github.com/sarahsawant/cybersecurity-beginner-labs/tree/main/Wireshark/Lab-02-DNS-Analysis)** — Understanding how DNS queries and responses work.
 
 ### 🛡️ TryHackMe
 Using practical rooms to build my understanding of cybersecurity.
