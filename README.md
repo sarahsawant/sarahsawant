@@ -29,8 +29,8 @@ I'm still learning, and this GitHub is where I plan to document my very own jour
 
 ### 🔐 Cybersecurity & Networking
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-FCEEF3?style=for-the-badge&logo=wireshark&logoColor=9B647C)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-FCEEF3?style=for-the-badge&logo=tryhackme&logoColor=9B647C)
 
 ### 🔧 Tools & Platforms
 
