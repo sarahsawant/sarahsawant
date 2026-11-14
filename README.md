@@ -22,10 +22,10 @@ I'm still learning, and this GitHub is where I plan to document my very own jour
 ### 💻 Programming Languages
 *Languages I've had some hands-on exposure to through college practicals.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FCEEF3?style=for-the-badge&logo=python&logoColor=9B647C)
+![C](https://img.shields.io/badge/C-FCEEF3?style=for-the-badge&logo=c&logoColor=9B647C)
+![C++](https://img.shields.io/badge/C%2B%2B-FCEEF3?style=for-the-badge&logo=cplusplus&logoColor=9B647C)
+![Java](https://img.shields.io/badge/Java-FCEEF3?style=for-the-badge&logo=openjdk&logoColor=9B647C)
 
 ### 🔐 Cybersecurity & Networking
 
