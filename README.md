@@ -9,3 +9,7 @@ I'm still learning, and this GitHub is where I plan to document my very own jour
 ---
 
 ## 🌱 What I'm currently exploring
+- Learning networking fundamentals and how devices communicate.
+- Exploring packet analysis using Wireshark.
+- Practising defensive security through TryHackMe.
+- Building my understanding of cybersecurity concepts through hands-on labs.
