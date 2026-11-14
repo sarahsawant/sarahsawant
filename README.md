@@ -1,4 +1,4 @@
-![Sarah's GitHub Banner](Sarah%20Sawant.png)g)
+![Sarah's GitHub Banner](Sarah%20Sawant.png)
 # Hey, I'm Sarah! 👋
 
 I'm a B.Tech. IT student currently exploring the depths of cybersecurity.
