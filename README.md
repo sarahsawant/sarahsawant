@@ -53,7 +53,7 @@ I've been trying to move beyond just learning concepts and actually get hands-on
 
 - [**Lab 01 — Network Traffic Analysis**](https://github.com/sarahsawant/cybersecurity-beginner-labs/tree/main/Wireshark/Lab-01-Network-Traffic-Analysis) — Capturing and exploring network traffic.
 - [**Lab 02 — DNS Analysis**](https://github.com/sarahsawant/cybersecurity-beginner-labs/tree/main/Wireshark/Lab-02-DNS-Analysis) — Understanding how DNS queries and responses work.
-- **Lab 03 — TCP Three-Way Handshake Analysis** — Analysing TCP connection establishment through SYN, SYN-ACK and ACK packets.
+- [**Lab 03 — TCP Three-Way Handshake Analysis**](https://github.com/sarahsawant/cybersecurity-beginner-labs/tree/main/Wireshark/Lab-03-TCP-Three-Way-Handshake) — Analysing TCP connection establishment through SYN, SYN-ACK and ACK packets.
 
 ### 🌐 Networking Fundamentals
 
